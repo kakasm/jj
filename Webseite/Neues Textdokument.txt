@@ -1,0 +1,13 @@
+1. Wir haben Pixelarts aus Google Fotos heruntergeladen und mit Photoshop bearbeitet.
+Dabei habe ich das "Designsheet" vom Dino Game heruntergeladen und den originalen Charakter und Spielinhalt ersetzt mit meinen eigenen.
+Siehe hier :
+
+<img-src
+
+2. Da das Bild lokal gespeichert war, musste ich das Bild auf einer bereits bestehenden Webseite hochladen, weil ich die Bildadresse brauchte.
+   Dafür geeignet hat sich imggm.com am besten.
+
+3. Man lädt die Seite "chrome://dino" und ersetzt das originale Design mit sein eigenes. (Durch "Rechtsklick", "Untersuchen")
+
+4. Nun waren wir eigentlich schon fertig aber das Spiel fehlte noch das gewisse Etwas. Das gewisse Etwas war Musik. 
+Passend zu unserem Michael Jackson Beispiel war die Musik vom Spiel "Michael Jackson's Moonwalker"
